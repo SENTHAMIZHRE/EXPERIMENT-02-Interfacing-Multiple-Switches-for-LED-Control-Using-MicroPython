@@ -1,8 +1,8 @@
 # EXPERIMENT-02-Interfacing-Multiple-Switches-for-LED-Control-Using-MicroPython
 
-### NAME: Prabha C
-### DEPARTMENT: IOT
-### ROLL NO: 212222110032
+### NAME: SENTHAMIZH SELVAN .K
+### DEPARTMENT: AIDS
+### ROLL NO: 212223235001
 ### DATE OF EXPERIMENT:
 
 ## AIM
